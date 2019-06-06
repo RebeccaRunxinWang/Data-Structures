@@ -1,4 +1,4 @@
-I did Implement Dijkstra's algorithm, Integrate Dijkstra and the GUI and Maze with graphs and breadth-first search. 
+I implemented Dijkstra's algorithm, integrated Dijkstra and the GUI and Maze with graphs and breadth-first search. 
 
 1. Implement Dijkstra's algorithm
 I implemented the Dijkstra's algorithm in Dijkstra.java. It should be tested using TestDijkstra.java, which has tested the implementation by calling printDistance(), printPath(node) and printAllPath() methods.
